@@ -43,4 +43,4 @@ This project is an interactive **Coffee Sales Dashboard** built to analyze sales
 - Migrate the dashboard to a web-based tool like Power BI or Tableau for enhanced interactivity.
 
 ## Dataset Reference
-This dataset was provided by Mo Chen (mochen862) and is available on GitHub [Link to dataset] (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk1XNkljMGFwTnU2d0JBd1lGY1ZpaDVIc3BYQXxBQ3Jtc0tuVWwzbzJwQzdoeVQzME1JUUVfSGJhWE5WeVdVVVB6Y0JOdjZSMnpBWHJ6ZW5BeVZhb3o1ZENCU0R0SHVqemNpWlllSGFiYTVhMUhVSVl4UUdlRlVKaXpjcGQ2enJVaDZoR2xQVEFPWkN5R2lLWURqaw&q=https%3A%2F%2Fgithub.com%2Fmochen862%2Fexcel-project-coffee-sales&v=m13o5aqeCbM)
+This dataset was provided by Mo Chen (mochen862) and is available on GitHub [Link to dataset](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk1XNkljMGFwTnU2d0JBd1lGY1ZpaDVIc3BYQXxBQ3Jtc0tuVWwzbzJwQzdoeVQzME1JUUVfSGJhWE5WeVdVVVB6Y0JOdjZSMnpBWHJ6ZW5BeVZhb3o1ZENCU0R0SHVqemNpWlllSGFiYTVhMUhVSVl4UUdlRlVKaXpjcGQ2enJVaDZoR2xQVEFPWkN5R2lLWURqaw&q=https%3A%2F%2Fgithub.com%2Fmochen862%2Fexcel-project-coffee-sales&v=m13o5aqeCbM)
